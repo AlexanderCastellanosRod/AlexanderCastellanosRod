@@ -3,8 +3,7 @@
 - 🌱 I’m currently learning Kotlin
 - 💞️ I’m looking to collaborate on new projects
 - 📫 How to reach me alexander.castellanosrodrig217@myci.csuci.edu
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
 
 <!---
 AlexanderCastellanosRod/AlexanderCastellanosRod is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
