@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Alex
-- 👀 I’m interested in Computer Science 
+- 👀 I’m a Computer Science Student
 - 🌱 I’m currently learning Kotlin
-- 💞️ I’m looking to collaborate on anyhtiing:)
+- 💞️ I’m looking to collaborate on new projects
 - 📫 How to reach me alexander.castellanosrodrig217@myci.csuci.edu
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
